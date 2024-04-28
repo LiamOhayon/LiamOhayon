@@ -1,5 +1,4 @@
 <h1 align="center">Liam Ohayon</h1>
-<h3 align="center">Security Researcher, Magshimim, Software Developer and CTF Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamohayon&label=Profile%20views&color=0e75b6&style=flat" alt="liamohayon" /> </p>
 
